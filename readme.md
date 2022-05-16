@@ -2,7 +2,7 @@
 
 ## Equifax data breach -2017
 ---
-What type of attack was this?
+## What type of attack was this?
 Scareware, spare phishing, malware.
 
 ## How was the vulnerability discovered?
